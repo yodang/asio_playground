@@ -1,0 +1,6 @@
+/.vscode/
+/CMakeFiles/
+test-asio
+main
+CMakeCache.txt
+cmake_install.cmake
